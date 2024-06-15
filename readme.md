@@ -1,4 +1,4 @@
-###Dynamic Image Processing
+## Dynamic Image Processing
 
 ## Overview:
 This project showcases efficient real-time image processing techniques leveraging GPU acceleration and advanced deep learning models like YOLOv4 for robust object detection. It includes optimizations for ARM-based embedded systems to achieve high performance and low latency.
@@ -20,5 +20,5 @@ cd build
 cmake ..
 make
 
-##Run the executable:
+## Run the executable:
 ./real_time_image_processing
